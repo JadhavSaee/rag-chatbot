@@ -1,0 +1,11 @@
+Q: What are the clinic timings? What time does the clinic open and close?
+A: Sunrise Health Clinic is open Monday to Saturday, 9:00 AM to 7:00 PM. It is closed on Sundays and public holidays.
+
+Q: Where is the clinic located? Is parking available?
+A: The clinic is at 12 MG Road, Nashik. Parking is available behind the building.
+
+Q: What is the clinic's phone number and email?
+A: Phone: 0253-1234567. Email: info@sunriseclinic.example
+
+Q: Which doctors are available and on which days?
+A: Dr. Mehta, General Physician, is available Monday to Saturday. Dr. Kulkarni, Dermatologist, is available Tuesday, Thursday and Saturday. Dr. Joshi, Pediatrician, is available Monday, Wednesday and Friday.
